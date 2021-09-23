@@ -1,3 +1,4 @@
 <?php
-    echo "Olá GIT!"
+  echo "Olá mundo, atualizando texto!"
+
 ?>
